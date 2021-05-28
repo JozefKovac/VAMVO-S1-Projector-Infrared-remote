@@ -2,10 +2,10 @@
 IRsend irsend;
 
 /******************************** VAMVO S1 projector IR remote ******************************
- used standard arduino nano
+arduino nano
  
- pin 3 - Infra Red pin
- pin 4 - Flashlight LED (optional)
+ pin 3 - Infra Red LED pin (with series-connected 50Ω resistor)
+ pin 4 - Flashlight White LED (optional)
  
  4x4 buttons matrix pins
  
